@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Talha Jamshaid 👋
 
-<!--
-**talhajamshaid/talhajamshaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working as a **MERN Stack Developer**
+🎨 My primary focus is **Frontend Development**
+🌱 I'm currently learning **Python**
+💬 Ask me about **React, JavaScript, Node.js, MongoDB**
+⚡ Fun fact: I turn coffee into clean UI components
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhajamshaid&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhajamshaid&layout=compact&theme=radical)
