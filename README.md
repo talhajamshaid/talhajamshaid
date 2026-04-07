@@ -1,9 +1,13 @@
 # Hi, I'm Talha Jamshaid 👋
 
 🔭 I'm currently working as a **MERN Stack Developer**
+
 🎨 My primary focus is **Frontend Development**
+
 🌱 I'm currently learning **Python**
+
 💬 Ask me about **React, JavaScript, Node.js, MongoDB**
+
 ⚡ Fun fact: I turn coffee into clean UI components
 
 ---
